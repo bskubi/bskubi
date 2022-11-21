@@ -1,6 +1,7 @@
-Biomedical engineering graduate student
-Aging and tissue engineering
-Synthetic biology
-Writing
-Programming
-Former music teacher
+- Biomedical engineering graduate student
+- Aging and tissue engineering
+- Synthetic biology
+- Writing
+- Programming
+- Former music teacher
+- Effective Altruism and LessWrong rationality
