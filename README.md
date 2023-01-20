@@ -1,7 +1,1 @@
-- Biomedical engineering graduate student
-- Aging and tissue engineering
-- Synthetic biology
-- Writing
-- Programming
-- Former music teacher
-- Effective Altruism and LessWrong rationality
+I am a biomedical engineering MS student at the University of Michigan, Shea Lab. I work on SELEX, developing an aptamer for murine IL-10, a key antiinflammatory molecule. We will use this aptamer in an vivo biosensor we will use to study how the immune system behaves and misbehaves in diseases such as spinal cord injury, cancer, and transplant. Before coming to UM, I worked for 10 years as a music teacher in Seattle. I taught myself to code when I was a teenager and have always enjoyed making applications to facilitate my workflow and manage data.
